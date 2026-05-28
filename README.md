@@ -43,6 +43,8 @@ Built using:
 Live project:
 
 * https://theprojectplanningproject.vercel.app/
+<img width="1915" height="976" alt="image" src="https://github.com/user-attachments/assets/c17e1797-5ce8-4bd5-9d42-30ad6dd44fb1" />
+<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/210addb9-3a6d-4197-be26-67cc8fc7a634" />
 
 ---
 
@@ -63,6 +65,8 @@ Built using:
 Live project:
 
 * https://ukcobenefitsexplorer.vercel.app/
+
+<img width="1918" height="968" alt="image" src="https://github.com/user-attachments/assets/b3d4f364-952d-49d8-b25e-9cd9da9101db" />
 
 ---
 
