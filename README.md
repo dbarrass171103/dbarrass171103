@@ -10,16 +10,15 @@ Currently developing full-stack and realtime web applications using React, TypeS
 
 ### VibeCooking
 
-AI-powered recipe generation application built with .NET MAUI, Blazor, MudBlazor, and Azure OpenAI.
+An AI-powered recipe generation application with ingredient management, customisable recipe generation, and an interactive recipe chat/editor.
 
-Current development areas include:
-
-* Ingredient management
-* AI recipe generation
-* Interactive recipe editing
-* Mobile-first UI/UX
-* Real-time recipe customisation
-
+Built using:
+* .NET MAUI
+* Blazor
+* MudBlazor
+* C#
+* Azure OpenAI
+* Azure AI Foundry
 ### The Project Planning Project
 
 Collaborative realtime project planning web app combining:
